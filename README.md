@@ -6,4 +6,4 @@ number (that could be used in reality) out of
 date of birth and sex inputed. Has a simple GUI
 made with Windows Forms, which helps to use
 the program fast and comfortable.
-![gif](https://github.com/polemicos/ProstyGeneratorPesel/raw/master/.gif)
+![gif](https://github.com/polemicos/ProstyGeneratorPesel/raw/master/pesel.gif)
